@@ -7,7 +7,7 @@ canonifyurls  = true
 enableGitInfo = true
 
 DefaultContentLanguage = "en"
-theme = "beautifulhugo"
+theme = "Lanyon"
 metaDataFormat = "yaml"
 pygmentsUseClasses = true
 pygmentCodeFences = true
